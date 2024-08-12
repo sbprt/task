@@ -1,4 +1,4 @@
-package ru.sbt.bit.ood.srp.sample1;
+package ru.sber;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
