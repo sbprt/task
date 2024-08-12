@@ -1,0 +1,10 @@
+group = "ru.sber"
+version = "1.0"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    Implementation "org.apache.commons:commons-csv:+"
+}
